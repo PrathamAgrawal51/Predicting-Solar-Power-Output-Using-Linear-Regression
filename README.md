@@ -18,4 +18,4 @@ A **linear regression model** that predicts solar power output based on environm
 
 1️⃣ Clone the repository:  
 ```sh
-https://github.com/PrathamAgrawal51/Predicting-Solar-Power-Output-Using-Linear-Regression.git
+git clone https://github.com/PrathamAgrawal51/Predicting-Solar-Power-Output-Using-Linear-Regression.git
